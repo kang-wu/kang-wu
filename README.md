@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kang-wu
 - 👀 I’m interested in deep learning/remote sensing.
-- 🌱 I’m currently learning deep learning/remote sensing.
 - 📫 How to reach me : Email me at: kang_wu@foxmail.com.
 
 <!---
